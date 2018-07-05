@@ -1,4 +1,4 @@
-import { GET_COUNTRIES, GET_COUNTRY, SEARCH_COUNTRIES } from '../actions/actions';
+import { GET_COUNTRIES, GET_COUNTRY, SEARCH_COUNTRIES, DELETE_COUNTRY} from '../actions/actions';
 import countriesData from '../data/countries.json';
 
 const initialState = {
