@@ -1,4 +1,4 @@
-mport { GET_COUNTRIES, GET_COUNTRY } from '../actions/actions-countries';
+import { GET_COUNTRIES, GET_COUNTRY } from '../actions/actions';
 import countriesData from '../data/countries.json';
 
 const initialState = {
